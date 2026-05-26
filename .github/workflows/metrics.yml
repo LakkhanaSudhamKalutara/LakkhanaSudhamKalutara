@@ -39,6 +39,6 @@ jobs:
 
           # Mastered technologies plugin (The row of skill icons)
           plugin_topics: yes
-          plugin_topics_sort: stars
+          plugin_topics_sort: random
           plugin_topics_mode: icons
           plugin_topics_limit: 20
